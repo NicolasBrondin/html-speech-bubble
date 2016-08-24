@@ -22,7 +22,7 @@ https://jsfiddle.net/NicolasBrondin/4p0aymaL/1/
 
 ## How to
 
-To implement this bubble in your project, simply add a link to this css file and create an html element like the one in the demo.html file.
+To implement this bubble in your project, simply add a link to this css file, add the image folder and create an html element like the one in the demo.html file.
 
 ## Improvement
 

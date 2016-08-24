@@ -22,13 +22,13 @@ body {
     color:white;
     border: solid white;
     border-width: 3px 3px 0px 3px;
-    background: url(https://cloud.githubusercontent.com/assets/6644095/17943466/d2072d0c-6a3b-11e6-8d69-83107b04f612.png) 48px 100% no-repeat;
+    background: url(img/bottom.png) 48px 100% no-repeat;
     background-size: calc(100% - 48px) 50px;
 }
 .speech-tail {
     height:25px;
     width: 52px;
     margin-top:-3px;
-    background: url(https://cloud.githubusercontent.com/assets/6644095/17943467/d207d270-6a3b-11e6-9954-ff079afcf974.png) top left no-repeat ;
+    background: url(img/bottom-left.png) top left no-repeat ;
     background-size: 100% 100%;
 }
