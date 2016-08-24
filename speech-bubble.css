@@ -1,0 +1,34 @@
+body {
+    background: url(http://wallpoper.com/images/00/43/87/89/blurry-background-vii_00438789.jpg);
+    font-family: arial;
+    font-size:24px;
+}
+
+.speech-bubble {
+    display: inline-block;
+    opacity:0.5;
+    transition: opacity 0.5s;
+}
+
+.speech-bubble:hover {
+    opacity:1;
+    transition: opacity 0.5s;
+}
+.speech-content {
+    display:inline-block;
+    min-width: 80px;
+    padding:10px;
+    text-align:center;
+    color:white;
+    border: solid white;
+    border-width: 3px 3px 0px 3px;
+    background: url(https://cloud.githubusercontent.com/assets/6644095/17943466/d2072d0c-6a3b-11e6-8d69-83107b04f612.png) 48px 100% no-repeat;
+    background-size: calc(100% - 48px) 50px;
+}
+.speech-tail {
+    height:25px;
+    width: 52px;
+    margin-top:-3px;
+    background: url(https://cloud.githubusercontent.com/assets/6644095/17943467/d207d270-6a3b-11e6-9954-ff079afcf974.png) top left no-repeat ;
+    background-size: 100% 100%;
+}
