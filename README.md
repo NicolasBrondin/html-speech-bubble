@@ -2,7 +2,7 @@
 
 Ever wanted to create a speech-bubble with a transparent background that can be used as a button?
 
-If yes, you are in the right place!
+If yes, you are in the right place! (and it's responsive!)
 
 ## But there are better and easier solutions !
 
